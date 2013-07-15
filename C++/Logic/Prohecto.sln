@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prohecto", "Prohecto\Prohecto.vcxproj", "{5A6AAFA5-33D7-4CBE-A2C7-621341C01960}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Text Based Adventure SWAG SWAG SWAG", "..\Text Based Adventure SWAG SWAG SWAG\Text Based Adventure SWAG SWAG SWAG\Text Based Adventure SWAG SWAG SWAG.vcxproj", "{798A9DB5-6A03-4EEB-867A-14909F92964A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6AAFA5-33D7-4CBE-A2C7-621341C01960}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A6AAFA5-33D7-4CBE-A2C7-621341C01960}.Debug|Win32.Build.0 = Debug|Win32
+		{5A6AAFA5-33D7-4CBE-A2C7-621341C01960}.Release|Win32.ActiveCfg = Release|Win32
+		{5A6AAFA5-33D7-4CBE-A2C7-621341C01960}.Release|Win32.Build.0 = Release|Win32
+		{798A9DB5-6A03-4EEB-867A-14909F92964A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{798A9DB5-6A03-4EEB-867A-14909F92964A}.Debug|Win32.Build.0 = Debug|Win32
+		{798A9DB5-6A03-4EEB-867A-14909F92964A}.Release|Win32.ActiveCfg = Release|Win32
+		{798A9DB5-6A03-4EEB-867A-14909F92964A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
